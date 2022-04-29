@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="220dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp"
+    android:elevation="10dp"
+    android:layout_margin="10dp"
+    app:cardCornerRadius="80dp"
+    tools:targetApi="lollipop">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/item_dashboard_cercle">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            android:layout_height="wrap_content"
+            tools:ignore="UselessParent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="01 May 2020:"
+                android:padding="5dp"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/income_color"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:id="@+id/date_income_ds"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Amount:"
+                android:layout_marginTop="5dp"
+                android:padding="5dp"
+                android:textColor="@color/income_color"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:id="@+id/amount_income_ds"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Category:"
+                android:layout_marginTop="5dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="@color/black"
+                android:id="@+id/type_income_ds"
+                />
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

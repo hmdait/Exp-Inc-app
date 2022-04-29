@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="220dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp"
+    android:layout_margin="10dp"
+    android:layout_height="wrap_content"
+    tools:targetApi="lollipop"
+    android:layout_gravity="center"
+    app:cardCornerRadius="80dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/item_dashboard_cercle"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            android:layout_height="wrap_content"
+            tools:ignore="UselessParent"
+            android:elevation="5dp"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="01 May 2020:"
+                android:padding="5dp"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/income_color"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:id="@+id/date_expense_ds"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Amount:"
+                android:textColor="@color/expense_color"
+                android:layout_marginTop="10dp"
+                android:padding="5dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:id="@+id/amount_expense_ds"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Category:"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:id="@+id/type_expense_ds"
+                />
+
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/drawable-anydpi/expense.xml" value="0.10925925925925926" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/drawable-anydpi/income.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/drawable/backgground_color.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/drawable/background_color.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/drawable/background_spleenshot.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/drawable/button_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/drawable/edit_texte_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/drawable/item_background_color.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/drawable/item_dashboard_cercle.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout-v21/appbar_layout.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout-v21/fragment_dash_board.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout-v21/fragment_income.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout-v23/appbar_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/activity_asset_graph.xml" value="0.22" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/activity_expense_asset_graph.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/activity_feedback.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/activity_home.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/activity_reset_password.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/activity_resgistration.xml" value="1.0" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/activity_spleesh_scren.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/activity_test_realt_time.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/appbar_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/content_main.xml" value="0.16" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/custom_layout_insertdata.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/dashbourd_expense.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/dashbourd_income.xml" value="0.22" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/expense_recycler_data.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/fragment_dachboarrd.xml" value="0.22" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/fragment_dash_board.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/fragment_expense.xml" value="0.33" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/fragment_income.xml" value="0.13043478260869565" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/income_recycler_data.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/income_recycler_date.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/layout/update_data_item.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/menu/bottommenu.xml" value="0.18" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/menu/nav_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/menu/navmenu.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Greenpurse/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22552083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

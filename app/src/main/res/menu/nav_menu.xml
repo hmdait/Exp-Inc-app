@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/dashboard"
+        android:icon="@drawable/dashboard"
+        android:title="@string/dashboard" />
+
+    <item android:id="@+id/income"
+        android:icon="@drawable/income"
+        android:title="@string/income" />
+
+    <item android:id="@+id/expense"
+        android:icon="@drawable/expense"
+        android:title="@string/expense" />
+    <item
+        android:id="@+id/share"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/feedback"
+        android:icon="@drawable/feedback"
+        android:title="@string/feedback" />
+
+    <item android:id="@+id/logout"
+        android:icon="@drawable/logout"
+        android:title="@string/logout" />
+
+</menu>
